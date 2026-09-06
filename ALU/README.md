@@ -12,9 +12,9 @@
   <p align="center">
     Implementação de uma ALU de 6 bits em portas lógicas, capaz de somar, subtrair, multiplicar e comparar — trabalho da disciplina Circuitos Digitais (CI1068) na UFPR.
     <br />
-    <a href="https://github.com/GiuTP/Circuitos-Digitais/issues/new?labels=bug">Reportar Bug</a>
+    <a href="https://github.com/giutp/circuitos-digitais/issues/new?labels=bug">Reportar Bug</a>
     &middot;
-    <a href="https://github.com/GiuTP/Circuitos-Digitais/issues/new?labels=enhancement">Sugerir Melhoria</a>
+    <a href="https://github.com/giutp/circuitos-digitais/issues/new?labels=enhancement">Sugerir Melhoria</a>
   </p>
 </div>
 
@@ -176,8 +176,8 @@ ALU/
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/GiuTP/Circuitos-Digitais.git
-   cd Circuitos-Digitais/ALU/Circuitos
+   git clone https://github.com/giutp/circuitos-digitais.git
+   cd circuitos-digitais/ALU/Circuitos
    ```
 2. Abra o simulador Digital:
    ```sh
@@ -211,9 +211,9 @@ O código-fonte deste projeto está distribuído sob a licença **MIT**. Consult
 
 ## 📬 Contato
 
-GiuTP — [github.com/GiuTP](https://github.com/GiuTP)
+giutp — [github.com/giutp](https://github.com/giutp)
 
-Link do projeto: [https://github.com/GiuTP/Circuitos-Digitais](https://github.com/GiuTP/Circuitos-Digitais)
+Link do projeto: [https://github.com/giutp/circuitos-digitais](https://github.com/giutp/circuitos-digitais)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -229,13 +229,13 @@ Link do projeto: [https://github.com/GiuTP/Circuitos-Digitais](https://github.co
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[stars-shield]: https://img.shields.io/github/stars/GiuTP/Circuitos-Digitais.svg?style=for-the-badge
-[stars-url]: https://github.com/GiuTP/Circuitos-Digitais/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GiuTP/Circuitos-Digitais.svg?style=for-the-badge
-[issues-url]: https://github.com/GiuTP/Circuitos-Digitais/issues
-[license-shield]: https://img.shields.io/github/license/GiuTP/Circuitos-Digitais.svg?style=for-the-badge
-[license-url]: https://github.com/GiuTP/Circuitos-Digitais/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/giutp/circuitos-digitais.svg?style=for-the-badge
+[stars-url]: https://github.com/giutp/circuitos-digitais/stargazers
+[issues-shield]: https://img.shields.io/github/issues/giutp/circuitos-digitais.svg?style=for-the-badge
+[issues-url]: https://github.com/giutp/circuitos-digitais/issues
+[license-shield]: https://img.shields.io/github/license/giutp/circuitos-digitais.svg?style=for-the-badge
+[license-url]: https://github.com/giutp/circuitos-digitais/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/GiuTP/
+[linkedin-url]: https://www.linkedin.com/in/giutp/
 [Digital-badge]: https://img.shields.io/badge/Digital-Simulator-blue?style=for-the-badge&logo=electron&logoColor=white
 [Digital-url]: https://github.com/hneemann/Digital
